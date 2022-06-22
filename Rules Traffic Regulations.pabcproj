@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="Rules Traffic Regulations" MainFile="main.pas" OutputFileName="Rules Traffic Regulations.exe" OutputDirectory="..\crazy traffic" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="main.pas" Path="main.pas" />
+    <Item Type="SourceFile" Name="События.pas" Path="События.pas" />
+    <Item Type="SourceFile" Name="Healths.pas" Path="Healths.pas" />
+    <Item Type="SourceFile" Name="Меню.pas" Path="Меню.pas" />
+    <Item Type="SourceFile" Name="Stat_save.pas" Path="Stat_save.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>
